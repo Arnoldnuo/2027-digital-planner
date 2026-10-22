@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://arnoldnuo.github.io/2027-digital-planner/sitemap.xml
+Sitemap: https://planner.fayanji.com/sitemap.xml
